@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#container-app {
+  min-height: 100vh;
+}
+
+.title {
+  color: steelblue;
+}
+
+.card {
+  border: 2px solid black;
+  width: 300px;
+}
+
+#container-ctas {
+    padding: 100px 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
